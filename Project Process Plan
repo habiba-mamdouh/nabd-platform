@@ -1,0 +1,147 @@
+# 🏥 Nabd Platform – UI/UX Project Timeline
+
+This repository documents the **UI/UX design process** for a our Medical App Nabd.  
+The project is divided into **phases**, each with clear deliverables.  
+
+---
+
+## 📅 Project Timeline (8 Weeks)
+
+### **Phase 1: Research & Discovery (Week 1–2)**
+- Define problem statement
+- Identify target users (patients, doctors, caregivers)
+- Stakeholder analysis (RACI Matrix + Power/Interest Grid)
+- Competitor research (study 2–3 medical apps)
+- Build user personas (2–3 personas)
+- SWOT analysis of app idea
+- Define requirements:
+  - Business goals
+  - User goals
+  - Functional requirements
+  - Non-functional requirements
+
+**Deliverables:**
+- Problem statement document
+- Target users table
+- RACI + Power/Interest diagrams
+- Competitor research report
+- User persona cards
+- SWOT table
+- Requirements list
+
+---
+
+### **Phase 2: Information Architecture (Week 3)**
+- Define user flows (appointments, reminders, emergency)
+- Create navigation map (sitemap)
+- Content strategy (what goes on each screen)
+
+**Deliverables:**
+- User flow diagrams
+- App navigation map
+- Content outline
+
+---
+
+### **Phase 3: Wireframing (Week 4)**
+- Low-fidelity wireframes
+- Mid-fidelity wireframes
+- Clickable prototype (basic)
+
+**Deliverables:**
+- Wireframe sketches
+- Mid-fidelity wireframes (Figma/Balsamiq)
+- Prototype link
+
+---
+
+### **Phase 4: Visual Design (Week 5)**
+- Moodboard (colors, fonts, medical imagery)
+- Style guide / design system
+- High-fidelity mockups (core screens)
+
+**Deliverables:**
+- Moodboard file
+- Style guide
+- High-fidelity mockups (Home, Appointments, Reminders, Emergency)
+
+---
+
+### **Phase 5: Prototyping (Week 6)**
+- High-fidelity mockups for all screens
+- Interactive prototype in Figma
+
+**Deliverables:**
+- Clickable high-fidelity prototype link
+- Screen-by-screen walkthrough
+
+---
+
+### **Phase 6: Usability Testing (Week 7)**
+- Prepare test scenarios
+- Run tests with 3–5 participants
+- Collect feedback & refine design
+
+**Deliverables:**
+- Usability test report
+- Prototype refinements
+
+---
+
+### **Phase 7: Final Documentation & Handoff (Week 8)**
+- Compile full project report
+- Prepare presentation slides
+- Optional: record demo video
+
+**Deliverables:**
+- Final report (PDF/Word)
+- Presentation slides (PPT/Canva)
+- Demo video (optional)
+- GitHub repo with process + designs
+
+---
+
+## 📂 Repository Structure
+
+```bash
+Medical-App-UIUX/
+│
+├── 01_Research/
+│   ├── Problem_Statement.md
+│   ├── Target_Users.xlsx
+│   ├── Stakeholder_Analysis/
+│   ├── Competitor_Research.md
+│   ├── Personas/
+│   ├── SWOT.md
+│   └── Requirements.md
+│
+├── 02_Information_Architecture/
+│   ├── User_Flows/
+│   ├── Navigation_Map.png
+│   └── Content_Strategy.md
+│
+├── 03_Wireframes/
+│   ├── Low_Fidelity/
+│   ├── Mid_Fidelity/
+│   └── Prototype_Link.txt
+│
+├── 04_Visual_Design/
+│   ├── Moodboard.png
+│   ├── Style_Guide.pdf
+│   └── High_Fidelity/
+│
+├── 05_Prototype/
+│   ├── Screens/
+│   └── Figma_Link.txt
+│
+├── 06_Usability_Testing/
+│   ├── Test_Scenarios.md
+│   ├── Feedback.md
+│   └── Refined_Prototype/
+│
+├── 07_Final_Delivery/
+│   ├── Final_Report.pdf
+│   ├── Presentation_Slides.pptx
+│   └── Demo_Video.mp4 (optional)
+│
+└── README.md
